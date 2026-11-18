@@ -12,9 +12,9 @@ Los notebooks se encuentran en la carpeta `notebooks` y conservan sus nombres or
 
 | Archivo | Función |
 | --- | --- |
-| [modelo_basal.ipynb](modelo_basal.ipynb) | Extracción de atributos acústicos y evaluación de los clasificadores basales. |
-| [Modelo_tda.ipynb](Modelo_tda.ipynb) | Cálculo de homología persistente, imágenes de persistencia y evaluación de los modelos aumentados. |
-| [Comparacion.ipynb](Comparacion.ipynb) | Comparación de modelos, matrices de confusión, métricas por género y pruebas de McNemar con ajuste de Holm. |
+| [modelo_basal.ipynb](notebooks/modelo_basal.ipynb) | Extracción de atributos acústicos y evaluación de los clasificadores basales. |
+| [Modelo_tda.ipynb](notebooks/Modelo_tda.ipynb) | Cálculo de homología persistente, imágenes de persistencia y evaluación de los modelos aumentados. |
+| [Comparacion.ipynb](notebooks/Comparacion.ipynb) | Comparación de modelos, matrices de confusión, métricas por género y pruebas de McNemar con ajuste de Holm. |
 | [resultados/](resultados/) | Atributos, métricas, predicciones y representaciones guardadas. |
 | [requirements.txt](requirements.txt) | Dependencias para preparar el entorno de ejecución. |
 
