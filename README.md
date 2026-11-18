@@ -8,7 +8,7 @@ El objetivo es estudiar si la incorporación de características topológicas ap
 
 ## Contenido
 
-Los notebooks se encuentran en la raíz y conservan sus nombres originales. La carpeta `resultados` contiene los archivos obtenidos durante los experimentos.
+Los notebooks se encuentran en la carpeta `notebooks` y conservan sus nombres originales. La carpeta `resultados` contiene los archivos obtenidos durante los experimentos.
 
 | Archivo | Función |
 | --- | --- |
