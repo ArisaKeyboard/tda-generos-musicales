@@ -1,0 +1,13 @@
+configuracion,modelo,f1_cv,C,gamma
+A_original,Random Forest,0.49975952925723865,,
+A_original,SVM RBF,0.5347369440523595,,
+A_original,XGBoost,0.5064959319278689,,
+B_atributos,Random Forest,0.5587242408685194,,
+B_atributos,SVM RBF,0.6130985088166393,10.0,scale
+B_atributos,XGBoost,0.5859611796862504,,
+C_pesos,Random Forest,0.5530463935472572,,
+C_pesos,SVM RBF,0.6072331714509598,10.0,scale
+C_pesos,XGBoost,0.5859611796862504,,
+D_arboles,Random Forest,0.5563520670584362,,
+D_arboles,SVM RBF,0.6072331714509598,10.0,scale
+D_arboles,XGBoost,0.5950923353639117,,
